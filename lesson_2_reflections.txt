@@ -20,3 +20,12 @@ logical change?
 Stagin area is middle ground between the working directory and the repository.
 When I make multiple logical changes in multiple files, I can use the staging
 area to commit each of those changes separately or together if need be.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches would be helpful if I want to keep my project intact but also try to 
+work on some other experimental parts in a separate line. Branches help me 
+to do so by not editing the master branch files/commits. Later on I will be
+able to merge those experimental branches back to the main branch.
