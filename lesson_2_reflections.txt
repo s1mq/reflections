@@ -1,0 +1,14 @@
+What happesn when you initialize a repository? Why do you need to do it?
+
+When I initialize a repository with git init, I create a hidden .git directory
+in that directory that will start saving my commits. I need to do it to save
+commits in my repository. So I can easily backtrack my versions and/or find
+bugs that I may have made throughout time.
+
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+Staging area is a mid-ground where you may add files which would be included
+in your next commit. Staging area allows me to commit specifically those files
+I want to.
