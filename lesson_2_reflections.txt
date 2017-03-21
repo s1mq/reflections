@@ -12,3 +12,11 @@ repository? What value do you think it offers?
 Staging area is a mid-ground where you may add files which would be included
 in your next commit. Staging area allows me to commit specifically those files
 I want to.
+
+
+How can you use the staging area to make sure taht you have one commit per
+logical change?
+
+Stagin area is middle ground between the working directory and the repository.
+When I make multiple logical changes in multiple files, I can use the staging
+area to commit each of those changes separately or together if need be.
