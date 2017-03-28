@@ -29,3 +29,12 @@ Branches would be helpful if I want to keep my project intact but also try to
 work on some other experimental parts in a separate line. Branches help me 
 to do so by not editing the master branch files/commits. Later on I will be
 able to merge those experimental branches back to the main branch.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams visualize that if I were to choose an earlier commit and make
+changes there and then commit the changes without starting a new branch. Then
+that commit will not be accessible by older branches and the changes would
+be lost.
+The diagrams help you understand the branch hierarchy and accessibility.
