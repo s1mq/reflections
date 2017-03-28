@@ -38,3 +38,14 @@ changes there and then commit the changes without starting a new branch. Then
 that commit will not be accessible by older branches and the changes would
 be lost.
 The diagrams help you understand the branch hierarchy and accessibility.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+When merging two branches together, git combines the commits from those
+branches into a single (master)branch. The commits will be ordered by
+timestamps.
+By representing it in the diagram the way we do, we can see that the info
+and changes of previos commits from both branches is accessible by the parent
+commit.
