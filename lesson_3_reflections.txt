@@ -32,3 +32,14 @@ stored locally?
 
 It allows you to see the state of the remote offline and compare your changes
 to it. 
+
+
+How would you collaborate without using Git or GitHub? What would be easier and
+what would be harder?
+
+One option would be to meet up with the people who I would be collaborating
+with. It would be easier to brainstorm and work on different features and
+implementations of the project. It would be harder to meet up with different
+people at any certain point of time. It would require planning and most
+probably would last from a few to a couple of hours. It would be extremely
+difficult to collaborate with people living far apart.
