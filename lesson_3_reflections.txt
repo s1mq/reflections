@@ -3,3 +3,12 @@ work local?
 
 Remote repository is good for sharing and collaborating your work with other
 people or when you're working from different computers.
+
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+Pulling manually enables me to see in what state the remote repository is.
+For example Might be that the branch I'm currently working on locally has been
+significantly changed in the remote repository in a way it would bring
+hardship for me to finish whatever I may be currently working on.
