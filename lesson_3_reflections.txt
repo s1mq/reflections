@@ -26,3 +26,9 @@ Clone would be used to copy that repository to your computer. This way you can
 make changes locally if necessary. For example writing some code.
 Branch would be used in this cloned repository for example to create a new
 feature to test it out. 
+
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+
+It allows you to see the state of the remote offline and compare your changes
+to it. 
