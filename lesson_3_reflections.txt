@@ -12,3 +12,17 @@ Pulling manually enables me to see in what state the remote repository is.
 For example Might be that the branch I'm currently working on locally has been
 significantly changed in the remote repository in a way it would bring
 hardship for me to finish whatever I may be currently working on.
+
+
+Describe the differences between forks, clones and branches. When would you use
+one instead of another?
+
+Forks is a clone on GitHub. 
+Clone is a copy of a repository either locally or remotely. 
+Branch is a series of commits exceeding one another by their changes.
+Fork would be used on GitHub to clone a repository that you would like to make
+changes to, but don't have access.
+Clone would be used to copy that repository to your computer. This way you can
+make changes locally if necessary. For example writing some code.
+Branch would be used in this cloned repository for example to create a new
+feature to test it out. 
