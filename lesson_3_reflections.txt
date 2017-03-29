@@ -43,3 +43,11 @@ implementations of the project. It would be harder to meet up with different
 people at any certain point of time. It would require planning and most
 probably would last from a few to a couple of hours. It would be extremely
 difficult to collaborate with people living far apart.
+
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+I believe that branches are useful when working with really many people. It
+helps to organize and observe what changes are made and approved. Working on
+master will more likely be what I will be using when working alone.
